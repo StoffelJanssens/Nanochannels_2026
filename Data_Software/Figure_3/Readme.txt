@@ -1,1 +1,0 @@
-The figure is plotted with the Python script in the Plot_Figure.py file.
